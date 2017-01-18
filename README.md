@@ -1,1 +1,1 @@
-# MeculusIII.github.io
+# meculusiii.github.io
