@@ -1,4 +1,9 @@
+*{
+  background-color:#FF0000;
+}
 p{
-  background-color:#FF0000
-  color:#00FF00
+  color:#00FF00;
+}
+a{
+  color:#0000FF;
 }
